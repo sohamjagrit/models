@@ -4,3 +4,8 @@ __pycache__/
 .DS_Store
 *.egg-info/
 dist/
+docs/
+CLAUDE.md
+.claude/
+
+models/transformers.ipynb

@@ -5,7 +5,10 @@ description = "This is where I implement models from scratch"
 readme = "README.md"
 requires-python = ">=3.9"
 dependencies = [
+    "matplotlib>=3.9.4",
     "numpy>=2.0.2",
+    "pandas>=2.3.3",
+    "scikit-learn>=1.6.1",
     "torch>=2.8.0",
 ]
 
